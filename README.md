@@ -46,7 +46,7 @@ Contribuições são bem-vindas! Se você deseja contribuir com o projeto, siga 
 
 ## Licença
 
-[Include project license, e.g., MIT]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Developers
 
