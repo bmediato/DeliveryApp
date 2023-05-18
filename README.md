@@ -1,6 +1,6 @@
 # Seja Bem-Vindo(a) ao repositório do projeto Delivery App
 
-Delivery Bebidas é um projeto que simula um aplicativo de delivery para uma distribuidora de bebidas. Ele permite que os usuários façam login, cadastrem-se, realizem pedidos e acompanhem o status dos pedidos. Além disso, a pessoa administradora tem a capacidade de adicionar novos membros da empresa.
+Delivery App é um projeto que simula um aplicativo de delivery para uma distribuidora de bebidas. Ele permite que os usuários façam login, cadastrem-se, realizem pedidos e acompanhem o status dos pedidos. Além disso, a pessoa administradora tem a capacidade de adicionar novos membros da empresa.
 
 ## Funcionalidades Principais
 - Autenticação de usuários: Os usuários podem fazer login para acessar o aplicativo.
@@ -12,12 +12,15 @@ Delivery Bebidas é um projeto que simula um aplicativo de delivery para uma dis
 ## Tecnologias Utilizadas
 
 - JavaScript
+- React
+- Context API
 - Node.js
 - Express
 - Sequelize (ORM para banco de dados)
 - MySQL
 - JWT (JSON Web Tokens para autenticação)
 - Bootstrap (CSS framework)
+- Docker
 
 ## Configuração do Ambiente de Desenvolvimento
 
@@ -31,30 +34,29 @@ Delivery Bebidas é um projeto que simula um aplicativo de delivery para uma dis
 7. Inicialize o back-end: `cd back-end` e `npm run dev`
 8. Inicialize o fron-end: `cd front-end` e `npm start`
 
-## Contribution
+## Contribuição
 
-Contributions are welcome! If you want to contribute to the project, follow these steps:
+Contribuições são bem-vindas! Se você deseja contribuir com o projeto, siga as etapas abaixo:
 
-1. Fork this repository
-2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Submit a pull request
+1. Fork este repositório.
+2. Crie um branch com sua nova funcionalidade ou correção de bug: `git checkout -b minha-funcionalidade`.
+3. Faça commit das suas alterações: `git commit -m 'Adiciona nova funcionalidade'`.
+4. Faça push para o branch: `git push origin minha-funcionalidade`.
+5. Envie um pull request.
 
-## License
+## Licença
 
 [Include project license, e.g., MIT]
 
 ## Developers
 
-- Beatriz Mediato
-- Victor Santos
-- Jorge Wellington
-- Bruno Brito
+- <a href = "https://github.com/bmediato">Beatriz Mediato</a>
+- <a href = "https://github.com/brunosbrito">Bruno Brito</a>
+- <a href = "https://github.com/Cozmu">Jorge Wellington</a>
+- <a href = "https://github.com/vicsantus">Victor Santos</a>
 
-## Contact
+## Contato
 
-If you have any questions or suggestions about the project, feel free to contact [your email or other contact details].
+Se tiver alguma dúvida ou sugestão sobre o projeto, entre em contato com <a href = "mailto:beatriz.mediatto2@gmail.com">beatriz.mediatto2@gmail.com</a>
 
-I hope this helps you write the README for your project! Remember to customize the sections according to the specific needs and details of your beverage delivery app.
 
