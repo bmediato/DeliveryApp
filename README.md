@@ -1,28 +1,27 @@
-# Delivery Bebidas
+# Seja Bem-Vindo(a) ao repositório do projeto Delivery App
 
-Delivery Bebidas is a project that simulates a delivery app for a beverage distributor. It allows users to log in, register, place orders, and track the status of their orders. Additionally, the administrator can add new members to the company.
+Delivery Bebidas é um projeto que simula um aplicativo de delivery para uma distribuidora de bebidas. Ele permite que os usuários façam login, cadastrem-se, realizem pedidos e acompanhem o status dos pedidos. Além disso, a pessoa administradora tem a capacidade de adicionar novos membros da empresa.
 
-## Main Features
+## Funcionalidades Principais
+- Autenticação de usuários: Os usuários podem fazer login para acessar o aplicativo.
+- Cadastro de usuário: Os usuários podem se cadastrar fornecendo informações básicas.
+- Realização de pedidos: Os usuários podem adicionar bebidas ao carrinho e fazer pedidos.
+- Acompanhamento do status do pedido: Os usuários podem verificar se o pedido está em andamento ou já saiu para entrega.
+- Administração de membros: A pessoa administradora pode adicionar novos membros da empresa.
 
-- User authentication: Users can log in to access the app.
-- User registration: Users can sign up by providing basic information.
-- Order placement: Users can add beverages to their cart and place orders.
-- Order tracking: Users can check whether an order is in progress or has been dispatched for delivery.
-- Member administration: The administrator can add new members to the company.
-
-## Technologies Used
+## Tecnologias Utilizadas
 
 - JavaScript
 - Node.js
 - Express
-- Sequelize (ORM for database)
+- Sequelize (ORM para banco de dados)
 - MySQL
-- JWT (JSON Web Tokens for authentication)
+- JWT (JSON Web Tokens para autenticação)
 - Bootstrap (CSS framework)
 
-## Development Environment Setup
+## Configuração do Ambiente de Desenvolvimento
 
-1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone este repositório: `git clone https://github.com/your-username/your-repository.git`
 2. Navigate to the project directory: `cd your-repository`
 3. Install dependencies: `npm install`
 4. Configure the MySQL database:
