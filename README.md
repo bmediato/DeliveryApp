@@ -21,14 +21,14 @@ Delivery Bebidas é um projeto que simula um aplicativo de delivery para uma dis
 
 ## Configuração do Ambiente de Desenvolvimento
 
-1. Clone este repositório: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project directory: `cd your-repository`
-3. Install dependencies: `npm install`
-4. Configure the MySQL database:
-   - Create a database in MySQL.
-   - Rename the `.env.example` file to `.env` and configure the database-related environment variables.
-5. Run the database migrations: `npx sequelize db:migrate`
-6. Start the application: `npm start`
+1. Clone este repositório: `git clone git@github.com:bmediato/DeliveryApp.git`
+2. Navegue até o diretório do projeto: `cd DeliveryApp`
+3. Instale as dependências: npm install
+4. Configure o banco de dados MySQL:
+ - Crie um banco de dados no MySQL.
+ - Renomeie o arquivo .env.example para .env e configure as variáveis de ambiente relacionadas ao banco de dados.
+Execute as migrações do banco de dados: npx sequelize db:migrate
+Inicie o aplicativo: npm start
 
 Make sure to provide detailed instructions on how to set up and run the project in a development environment.
 
