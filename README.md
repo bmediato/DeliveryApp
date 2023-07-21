@@ -50,10 +50,10 @@ Contribuições são bem-vindas! Se você deseja contribuir com o projeto, siga 
 
 ## Developers
 
-- <a href = "https://github.com/bmediato">Beatriz Mediato</a>
-- <a href = "https://github.com/brunosbrito">Bruno Brito</a>
-- <a href = "https://github.com/Cozmu">Jorge Wellington</a>
-- <a href = "https://github.com/vicsantus">Victor Santos</a>
+- <strong><a href = "https://github.com/bmediato">Beatriz Mediato</a></strong> 
+- <strong><a href = "https://github.com/brunosbrito">Bruno Brito</a></strong> 
+- <strong><a href = "https://github.com/Cozmu">Jorge Wellington</a></strong> 
+- <strong><a href = "https://github.com/vicsantus">Victor Santos</a></strong> 
 
 ## Contato
 
